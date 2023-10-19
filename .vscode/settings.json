@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "ADD.C": "cpp"
+        "ADD.C": "cpp",
+        "ADD1.C": "cpp"
     }
 }
