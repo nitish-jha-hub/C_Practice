@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Notes.txt
+/Notes
+/Notes.txt
+*.txt
+*.txt
+Notes.txt

@@ -1,2 +1,0 @@
-c progarm start with main function and end with return 0;
-\n(escape sequence charecter**) To insert a new line, you can use the \n character;

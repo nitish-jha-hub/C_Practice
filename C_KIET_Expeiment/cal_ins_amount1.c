@@ -38,14 +38,19 @@ int main()
 
     if (gender == 1 && smoker == 1)
     {
-        int female_amount = amount + (amount * 0.1);
-        int f_smo_amo = amount - (amount * 0.1);
+        int female_amount = amount - (amount * 0.1);
+        int f_smo_amo = female_amount + (amount * 0.1);
         printf("insuance amount is: %d ", f_smo_amo);
     }
     else if (gender == 1)
     {
-        float female_amount = amount + (amount * 0.1);
+        int female_amount = amount - (amount * 0.1);
         printf("insuance amount is: %d ", female_amount);
+    }
+    else if ( smoker == 1)
+    {
+        float smoker_amount = amount + (amount * 0.1);
+        printf("insuance amount is: %d ", smoker_amount);
     }
     else
     {
