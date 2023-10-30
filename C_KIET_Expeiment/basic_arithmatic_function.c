@@ -18,4 +18,4 @@ return 0;
 int add(int a, int b){
     printf("add function is executing\n");
     return a+b;
-}
+};
