@@ -2,6 +2,7 @@
     "files.associations": {
         "ADD.C": "cpp",
         "ADD1.C": "cpp",
-        "SECOND.C": "cpp"
+        "SECOND.C": "cpp",
+        "string.h": "c"
     }
 }
