@@ -12,6 +12,6 @@ int main(){
     int a=10 , b=20;
     int *pa = &a;
     int *pb = &b;
-    swap(&a,&b);
+    swap(pa,pb);
     return 0;
 }
